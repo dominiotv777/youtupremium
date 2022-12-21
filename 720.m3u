@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, peli
-https://s2.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/js/chunk-vendors.80a15021.js
+#EXTINF:-1, sims
+https://www.youtube.com/watch?v=CepQpfhGXCM
 
-#EXTINF:-1 tvg-chno-"1", peli2
-https://s2.teraboxcdn.com/dfxaf3-d4160066.js
+#EXTINF:-1 tvg-chno-"1", sims2
+https://www.youtube.com/watch?v=DRxF8wWYi-4
 
 #EXTINF:-1 tvg-chno-"1",peli3
 https://s2.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/assets/libs/apple.min.js
@@ -12,4 +12,4 @@ https://s2.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/assets/li
 https://data.terabox.com/video/netdisk-videotran-tky/8ef4e81185b07a24996931779b2be029_1074_7_ts/b14adc5c937b6b1e22f6970b362b07fd?ts_size=12131452&app_id=250528&ccn=CO&csl=0&dp-logid=163888543025760546&fn=Old.Henry.0p+%28DS%29.mkv&from_type=1&fsid=141933929898881&idc_c=1&iv=2&logid=163888543025760546&ouk=4399785687626&r=183061788&size=969275393&sta_cs=0&sta_dt=video&sta_dx=924&time=1671670503&to=gds&tot=ctptx&uo=any&uva=2653423779&vuk=4399785687626&etag=b14adc5c937b6b1e22f6970b362b07fd&fid=b379f13e68b2be597247463d2a11b8a8-4399785687626&len=970456&range=4903980-5874435&region=any&sign=BOUTHNFI-F3530edecde9cd71b79378b290804a96-m9eIO6mdNIWtp69HGs2OxvrjryU%253D&need_suf=&pmk=1400b14adc5c937b6b1e22f6970b362b07fde8291248000000b91c7c&by=my-streaming
 
 #EXTINF:-1 tvg-chno-"1",peli5
-https://www.terabox.com/spanish/play/video?path=%2FOld.Henry.0p%20%28DS%29.mkv&t=-1
+https://www.terabox.com/spanish/play/video?path=%2FOld.Henry.0p%20%28DS%29.mkv
