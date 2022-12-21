@@ -1,6 +1,15 @@
 #EXTM3U
 #EXTINF:-1, bajo terraee
-https://www.youtube.com/watch?v=vFbyVHhO9QU&list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML&index.m3u
+https://www.youtube.com/watch?v=DCaFYDFuz6U&list=PLgOQe7EJRve_6xLKREwF20swIfYEAxrEd&index=27
 
+#EXTINF:-1 tvg-chno-"1", cp
+https://www.youtube.com/watch?v=DCaFYDFuz6U&list=PLgOQe7EJRve_6xLKREwF20swIfYEAxrEd&index=27
 
+#EXTINF:-1 tvg-chno-"1",cp1
+https://www.youtube.com/watch?v=DCaFYDFuz6U&list=PLgOQe7EJRve_6xLKREwF20swIfYEAxrEd&index=27.m3u8
 
+#EXTINF:-1 tvg-chno-"1",cp2
+https://www.youtube.com/watch?v=DCaFYDFuz6U&list=PLgOQe7EJRve_6xLKREwF20swIfYEAxrEd&index=27/index.m3u8
+
+#EXTINF:-1 tvg-chno-"1",cp3
+https://www.youtube.com/watch?v=DCaFYDFuz6U&list=PLgOQe7EJRve_6xLKREwF20swIfYEAxrEd&index=27/index.m3u
