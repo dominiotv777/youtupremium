@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1, conde
-https://www.youtube.com/watch?v=DCaFYDFuz6U&feature=youtu.be
+#EXTINF:-1, D
+https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
 
-#EXTINF:-1 tvg-chno-"1", sims2
-https://www.youtube.com/watch?v=DRxF8wWYi-4
+#EXTINF:-1 tvg-chno-"1", D2
+https://cloudvideo.servers10.com:8081/8242/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-chno-"1",peli4
-https://terabox.com/s/1QXtlCR_zBMe_eeW0VPsfCg
+#EXTINF:-1 tvg-chno-"1",D3
+https://cloudvideo.servers10.com:8081/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-chno-"1",conde
-https://youtu.be/DCaFYDFuz6U
+#EXTINF:-1 tvg-chno-"1",D4conde
+https://cloudvideo.servers10.com:8242/hybrid/play.m3u8
