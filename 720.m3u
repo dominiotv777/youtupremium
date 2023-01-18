@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, D
-https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
+#EXTINF:-1,TELEZION
+https://paneltv.net:3751/hybrid/play.m3u8    
 
 #EXTINF:-1 tvg-chno-"1", D2
 https://cloudvideo.servers10.com:8081/8242/hybrid/play.m3u8
