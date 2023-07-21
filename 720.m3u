@@ -120,8 +120,17 @@ https://mavtv-mavtvglobal-1-lu.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"40",MMA Junkie (deportes internacional) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 
+#EXTINF:-1 tvg-chno-"41",NW (deportes internacional) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+https://hls.newworldtv.com/nw-sport-1/video/live.m3u8
 
+#EXTINF:-1 tvg-chno-"42",NW (deportes internacional) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+https://hls.newworldtv.com/nw-sport-1/video/index.m3u8
 
+#EXTINF:-1 tvg-chno-"43",NW (deportes internacional) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+https://hls.newworldtv.com/nw-sport-1/video/playlist.m3u8
+
+#EXTINF:-1 tvg-chno-"44",NW (deportes internacional) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+https://hls.newworldtv.com/nw-info/video/live_2.m3u8
 
 https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
