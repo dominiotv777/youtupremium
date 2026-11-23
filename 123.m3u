@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1",+ accion
-https://live-evg13.tv360.bitel.com.pe/bitel/+movieaccion/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"1",fm universo
+https://183.giatvcdn.com/giatv/giatv-universotv/universotv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"2",BARBE TV RD (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8                
